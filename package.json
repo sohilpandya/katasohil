@@ -1,0 +1,22 @@
+{
+  "name": "katasohil",
+  "version": "1.0.0",
+  "description": "project to send issues to a repo using authentication and github API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohilpandya/katasohil.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sohilpandya/katasohil/issues"
+  },
+  "homepage": "https://github.com/sohilpandya/katasohil#readme",
+  "dependencies": {
+    "env2": "^2.0.4"
+  }
+}
