@@ -1,6 +1,6 @@
 # katasohil
-project to send issues to a repo using authentication and github API
 
+##Stuck at the post request for making issue :worried:
 
 We are redirecting users to github for authentication.
 
